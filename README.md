@@ -2,7 +2,7 @@
 
 ## 01) What is your Why
 
-	a.	Find your WHY?
+	### a.	Find your WHY?
 		i. Start with Why by Simon Sinek
 		ii. Why, How, What
 		
@@ -58,12 +58,17 @@
 	### Social Media management: Do I need it?
 	
 ## 08) Scale your businessess
-		0.   Know what you need to grow your business.
-		i.   Financial Capital.
-		ii.  Human Capital.
-		iii. Intellectual Capital.
-		iV.  Have an outside perspective on what you need to grow.
+	0.   Know what you need to grow your business.
+	i.   Financial Capital.
+	ii.  Human Capital.
+	iii. Intellectual Capital.
+	iV.  Have an outside perspective on what you need to grow.
 
 ## 09) Self Management
-
+	a. Manage yourself, use tools, reminders, social media etc
+	b. Have a business coach
+	c. Don't let success goes to your head.
+	d. Don't bound your own self worth to the success of your business.
+	
 ## 10) Launch your Business
+
